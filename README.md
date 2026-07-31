@@ -38,22 +38,26 @@ I use AI-assisted development tools where they improve velocity, while retaining
 ownership of research direction, requirements, architecture, acceptance
 criteria, validation strategy, security boundaries, and release decisions.
 
-## Public work
+## Case studies in preparation
 
-### [Portfolio Case Studies](https://github.com/danmardis/portfolio-case-studies)
+I am developing sanitized architectural and problem-solving case studies from
+private IT, automation, integration, research, and systems work. They remain
+private until both the content and publication history pass a deliberate review.
 
-Sanitized architectural and problem-solving case studies drawn from private IT,
-automation, integration, research, and systems work.
+Current studies include:
 
 - **Requirements Integrity Gateway:** a design for using AI-assisted
   interpretation without allowing explicit requirements to be silently
   weakened, invented, replayed, or bypassed.
+- **Automating a Fragmented Reporting Pipeline:** a sanitized study of
+  multi-system ingestion, data-quality controls, reporting automation, and
+  operational support in Microsoft Fabric.
 
 ## Broader project portfolio
 
 | Project | What it demonstrates | Visibility / status |
 | --- | --- | --- |
-| **Portfolio Case Studies** | Architecture, requirements integrity, AI governance, testing, and technical decision-making | **Public** |
+| **Portfolio Case Studies** | Architecture, requirements integrity, AI governance, data platforms, validation, and technical decision-making | Private final review; clean public release pending |
 | **IT Archaeology** | Historical research, provenance, lost technical knowledge, and mystery-led systems investigation | Private development; awaiting a worthy first investigation |
 | **Workforce Data Quality Lab** | Synthetic workforce-data auditing, reconciliation, exception handling, and automation | Private development |
 | **Critical Path Mapper** | Dependency modeling, blocker-aware prioritization, and systems thinking | Private pre-MVP |
