@@ -1,16 +1,18 @@
 # Dan Mardis
 
-I am an advanced researcher, business-systems builder, and automation-focused
-problem solver. I turn fragmented information, disconnected tools, and manual
-processes into clearer evidence, better workflows, and reliable solutions.
+I am an IT professional, advanced researcher, business-systems builder, and
+automation-focused problem solver. I turn fragmented information, disconnected
+tools, and manual processes into clearer evidence, streamlined workflows, and
+reliable technical solutions.
 
-My work sits at the intersection of research, integrations, process improvement,
-automation, and data. I enjoy tracing difficult questions across primary sources,
-connecting systems through APIs, streamlining repetitive work, and designing
-creative solutions that are practical enough to operate and maintain.
+My work spans IT, research, integrations, process improvement, automation, and
+data. I enjoy tracing difficult questions across primary sources, connecting
+systems through APIs, eliminating repetitive work, and designing creative
+solutions that are practical enough to operate, support, and improve over time.
 
 ## What I work on
 
+- IT systems, technical operations, and internal platforms
 - Advanced research, source discovery, provenance, and evidence synthesis
 - API, identity, HRIS, and SaaS integrations
 - Workflow automation and end-to-end process improvement
@@ -37,7 +39,7 @@ criteria, validation strategy, security boundaries, and release decisions.
 ## Selected work
 
 I am preparing sanitized public demonstrations and case studies from a larger
-body of private research, product, automation, and systems work. The first
+body of private IT, research, product, automation, and systems work. The first
 portfolio projects will focus on:
 
 - Workforce data quality and cross-system reconciliation
@@ -51,6 +53,6 @@ commercially sensitive implementation details remain intentionally private.
 
 ## Current focus
 
-I am seeking opportunities in business systems development, integrations,
+I am seeking opportunities in IT, business systems development, integrations,
 automation, process improvement, research systems, data engineering, business
 intelligence, and adjacent platform roles.
