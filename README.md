@@ -38,7 +38,7 @@ I use AI-assisted development tools where they improve velocity, while retaining
 ownership of research direction, requirements, architecture, acceptance
 criteria, validation strategy, security boundaries, and release decisions.
 
-## Selected work
+## Public work
 
 ### [Portfolio Case Studies](https://github.com/danmardis/portfolio-case-studies)
 
@@ -49,16 +49,23 @@ automation, integration, research, and systems work.
   interpretation without allowing explicit requirements to be silently
   weakened, invented, replayed, or bypassed.
 
-## Projects in development
+## Broader project portfolio
 
-| Project | Focus | Status |
+| Project | What it demonstrates | Visibility / status |
 | --- | --- | --- |
-| IT Archaeology | Lost systems, forgotten information machines, and hard-to-find technical history | Private development |
-| Workforce Data Quality Lab | Synthetic workforce-data auditing and cross-system reconciliation | Private development |
-| Critical Path Mapper | Dependency-aware planning and blocker analysis | Private development |
+| **Portfolio Case Studies** | Architecture, requirements integrity, AI governance, testing, and technical decision-making | **Public** |
+| **IT Archaeology** | Historical research, provenance, lost technical knowledge, and mystery-led systems investigation | Private development; awaiting a worthy first investigation |
+| **Workforce Data Quality Lab** | Synthetic workforce-data auditing, reconciliation, exception handling, and automation | Private development |
+| **Critical Path Mapper** | Dependency modeling, blocker-aware prioritization, and systems thinking | Private pre-MVP |
+| **Orbiting** | Private internal tools, product design, privacy boundaries, cloud architecture, and operational workflows | Private production system |
+| **HardToFinder / CurioTrace** | Search infrastructure, source discovery, research provenance, evidence workflows, and integrations | Private production systems |
+| **Movie Scout** | Deterministic filtering, provider architecture, requirements fidelity, and AI safety boundaries | Private product |
+| **Hardware and physical-product projects** | Prototyping, measurement, mechanical problem-solving, and product research | Private pending IP review |
 
-Private production repositories, personal data, employer information, and
-commercially sensitive implementation details remain intentionally private.
+Private repositories remain private when they contain personal data, production
+infrastructure, employer information, commercially sensitive implementation,
+or invention details. Public derivatives and case studies are created only when
+they can stand on their own and pass a deliberate publication review.
 
 ## Current focus
 
