@@ -40,17 +40,22 @@ criteria, validation strategy, security boundaries, and release decisions.
 
 ## Selected work
 
-I am preparing sanitized public demonstrations and case studies from a larger
-body of private IT, historical research, product, automation, and systems work.
-The first portfolio projects will focus on:
+### [Portfolio Case Studies](https://github.com/danmardis/portfolio-case-studies)
 
-- Workforce data quality and cross-system reconciliation
-- Requirements fidelity for AI-assisted systems
-- Research provenance and evidence-centered workflows
-- Business-process and systems archaeology
-- Lost technical knowledge recovery
-- Dependency-aware project planning
-- Business-system integrations and automation architecture
+Sanitized architectural and problem-solving case studies drawn from private IT,
+automation, integration, research, and systems work.
+
+- **Requirements Integrity Gateway:** a design for using AI-assisted
+  interpretation without allowing explicit requirements to be silently
+  weakened, invented, replayed, or bypassed.
+
+## Projects in development
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| IT Archaeology | Lost systems, forgotten information machines, and hard-to-find technical history | Private development |
+| Workforce Data Quality Lab | Synthetic workforce-data auditing and cross-system reconciliation | Private development |
+| Critical Path Mapper | Dependency-aware planning and blocker analysis | Private development |
 
 Private production repositories, personal data, employer information, and
 commercially sensitive implementation details remain intentionally private.
