@@ -13,6 +13,7 @@ something people can actually use.
 - Business systems, internal tools, and technical operations
 - API, identity, HRIS, and SaaS integrations
 - Workflow automation and process improvement
+- AI-assisted automation and reliable agent workflows
 - Data quality, reconciliation, and reporting
 - Technical and historical research
 - Python, SQL, PySpark, Microsoft Fabric, and Power BI
@@ -26,7 +27,9 @@ failures upstream, and documenting what I find. I care more about fixing the
 underlying problem than adding another dashboard or tool.
 
 I use AI-assisted development tools where they are useful, but I make the
-decisions about requirements, architecture, security, testing, and release.
+decisions about requirements, architecture, security, testing, and release. I’m
+especially interested in making agent-assisted work more dependable through
+better tooling, verification, and operating guardrails.
 
 ## Case studies in preparation
 
@@ -60,4 +63,7 @@ live.
 ## Current focus
 
 I’m looking for roles where I can solve hard operational and technical problems
-through automation, integrations, research, data, or business systems work.
+through automation, integrations, research, data, or business systems work. I’m
+also going deeper on AI automation and agentic systems: connecting models to
+real tools, structuring multi-step work, and verifying the result instead of
+assuming the output is correct.
